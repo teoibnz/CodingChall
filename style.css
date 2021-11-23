@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  width: 800px;
+  margin: auto;
+  margin-top: 150px;
+}
+main{
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  padding: 20px;
+}
+.container{
+  padding: 10px;
+}
+.bottom-header{
+  text-align: center;
+  color: limegreen;
+}
+.logo{
+  width: 250px;
+}
+.check{
+padding: 15px;
+font-size: 15px;
+
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: 5px;
+}
+.navigatore{
+  background-color: limegreen;
+  padding: 5px;
+}
